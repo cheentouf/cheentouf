@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Software Engineer</h3>
 
 *   🌍  I'm based in Tangier, Morocco
-*   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='(https://ayb-dev.vercel.app/)'>Portfolio</a>
+*   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://ayb-dev.vercel.app/'>Portfolio</a>
 *   🧠  Currently learning Next.js
 *   🤝  I'm open to collaborating on interesting projects as a developer
 
