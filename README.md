@@ -4,7 +4,7 @@
 
 *   🌍  I'm based in Tangier, Morocco
 *   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://blond-dev.vercel.app/'>Portfolio</a>
-*   🧠  Currently learning Next.js
+*   🧠  Currently learning React.js
 *   🤝  I'm open to collaborating on interesting projects as a developer
 
 <h3 align="left">Socials:</h3>
